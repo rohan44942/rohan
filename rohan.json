@@ -1,121 +1,109 @@
 {
-    "basics": {
-        "name": "rohan",
-        "label": "Student",
-        "picture": "https://github.com/account",
-        "email": "2019kucp1109@iiitkota.ac.in",
-        "phone": "++918813852121",
-        "website": "https://thegauravparmar.com",
-        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
-        "location": {
-            "address": "nooni awal",
-            "postalCode": "123001",
-            "city": "narnaul",
-            "countryCode": " India",
-            "region": "haryana"
-        },
-        "profiles": [
-            {
-                "network": "Twitter",
-                "username": "rohan Nooniwal",
-                "url": "https://twitter.com/RohanNooniwal"
-            },
-            {
-                "network": "Github",
-                "username": "rohan44942",
-                "url": "https://gist.github.com/rohan44942"
-            },
-            {
-                "network": "linkedin",
-                "username": "rohan"
-                "url": "https://www.linkedin.com/in/rohan-161821242/"
-            },
-            {
-                "network": "Instagram",
-                "username": "rohannooniwal39",
-                "url": "https://www.instagram.com/rohannooniwal39/"
-            }
-        ]
-    },
-    "work": [ 
-        {
-            "company": "IIIT Kota",
-            "position": "Web Developer",
-            "website": "https://iiitkota.ac.in",
-            "startDate": "",
-            "endDate": "",
-            "summary": "Worked as a web developer for creating the offical website of IIIT Kota."
-        }, 
-    ],
-    "education": [
-        {
-            "institution": "Indian Institute of Information Technology,Kota",
-            "area": "Engineering",
-            "studyType": "Bachelor",
-            "startDate": "4-01-2022",
-            "endDate": "4-01-2025",
-            "gpa": "8.4",
-            "courses": [
-                "Computer Science & Engineering"
-            ]
-        }
-    ],
-    "awards": [
-        {
-            "title": "second positon in enviromental club speech competetion",
-            "awarder": "paryavaran shakti club",
-            "date": "june 6,2022"
-        }
-    ],
-    "publications": [
-        {
-            "title": "IIIT Kota Website",
-            "details": "Build IIIT Kota Website Using MERN.",
-            "link": "https://iiitkota.ac.in/"
-        },
-        {
-            "title": "e-Learning And Data Analytics Lab",
-            "details": "Build e-Learning And Data Analytics Lab Website Using MERN.",
-            "link": "https://eldalab.in"
-        }, 
-    ],
-    "skills": [
-        {
-            "name": " web Development",
-            "level": "mediator",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "C/C++",
-                            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "hindi",
-            "fluency": "Native speaker"
-        }
+	"basics": {
+		"name": "rohan",
+		"label": "Student",
+		"picture": "https://github.com/account",
+		"email": "2019kucp1109@iiitkota.ac.in",
+		"phone": "++918813852121",
+		"website": "https://thegauravparmar.com",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+		"location": {
+			"address": "nooni awal",
+			"postalCode": "123001",
+			"city": "narnaul",
+			"countryCode": " India",
+			"region": "haryana"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "rohan Nooniwal",
+				"url": "https://twitter.com/RohanNooniwal"
+			},
+			{
+				"network": "Github",
+				"username": "rohan44942",
+				"url": "https://gist.github.com/rohan44942"
+			},
+			{
+				"network": "linkedin",
+				"username": "rohan",
+				"url": "https://www.linkedin.com/in/rohan-161821242/"
+			},
+			{
+				"network": "Instagram",
+				"username": "rohannooniwal39",
+				"url": "https://www.instagram.com/rohannooniwal39/"
+			}
+		]
+	},
+	"work": [{
+		"company": "IIIT Kota",
+		"position": "Web Developer",
+		"website": "https://iiitkota.ac.in",
+		"startDate": "",
+		"endDate": "",
+		"summary": "Worked as a web developer for creating the offical website of IIIT Kota."
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor",
+		"startDate": "4-01-2022",
+		"endDate": "4-01-2025",
+		"gpa": "8.4",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "second positon in enviromental club speech competetion",
+		"awarder": "paryavaran shakti club",
+		"date": "june 6,2022"
+	}],
+	"publications": [{
+			"title": "IIIT Kota Website",
+			"details": "Build IIIT Kota Website Using MERN.",
+			"link": "https://iiitkota.ac.in/"
+		},
+		{
+			"title": "e-Learning And Data Analytics Lab",
+			"details": "Build e-Learning And Data Analytics Lab Website Using MERN.",
+			"link": "https://eldalab.in"
+		}
+	],
+	"skills": [{
+		"name": " web Development",
+		"level": "mediator",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"C/C++"
+		]
+	}],
+	"languages": [{
+			"language": "hindi",
+			"fluency": "Native speaker"
+		},
 
-        {
-            "language": "english",
-            "fluency": "normal speaker"
-        }
+		{
+			"language": "english",
+			"fluency": "normal speaker"
+		}
 
-    ],
-    "interests": [
-        {
-            "name": "typing",
-            "keywords": [
-                "rgb keyboard"
-            ]
-        },
-        {
-            "name": "playing",
-            "keywords": [
-                "vollyball",
-                "Badminton",
-"kabbadi"
-            ]
-        }
-    ]
+	],
+	"interests": [{
+			"name": "typing",
+			"keywords": [
+				"rgb keyboard"
+			]
+		},
+		{
+			"name": "playing",
+			"keywords": [
+				"vollyball",
+				"Badminton",
+				"kabbadi"
+			]
+		}
+	]
 }
